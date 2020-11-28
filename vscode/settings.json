@@ -1,0 +1,39 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorCustomizations": {
+        "editorLineNumber.foreground": "#2aa198"
+      },
+      "editor.suggestSelection": "first",
+      "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+      "editor.minimap.enabled": false,
+      "editor.fontLigatures": true,
+      "editor.fontFamily": "Fira Code",
+      "terminal.integrated.fontFamily": "Fira Code",
+      "terminal.integrated.shell.osx": "/bin/zsh",
+      "touchBar.dayTheme": "Community Material Theme Lighter",
+      "touchBar.nightTheme": "Just Black",
+      "touchBar.goToReferences": true,
+      "touchBar.organizeImports": true,
+      "touchBar.showExplorer": false,
+      "touchBar.search": false,
+      "touchBar.extensions": false,
+      "touchBar.themeToggle": true,
+      "keyboard.touchbar.ignored": [
+        "play",
+        "workbench.action.debug.start",
+        "workbench.action.debug.run",
+        "workbench.action.navigateBack",
+        "workbench.action.navigateForward"
+      ],
+      "editor.semanticHighlighting.enabled": false,
+      "touchBar.terminal": true,
+      "touchBar.toggleZenMode": false,
+      "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+      },
+      "workbench.colorTheme": "Just Black",
+      "window.zoomLevel": 0,
+      "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+      }
+}
