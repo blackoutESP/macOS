@@ -1,6 +1,8 @@
-sw_volume: 75
+sw_volume: 98
 audio_device_state:1:CoreAudio
-state: stop
+state: play
+current: 67
+time: 169.575000
 random: 0
 repeat: 0
 single: 0
@@ -9,4 +11,83 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
+0:Falsalarma/Falsalarma - Intro.mp3
+1:Falsalarma/Falsalarma - Vis a Vis.mp3
+2:Falsalarma/Falsalarma - Arde.mp3
+3:Falsalarma/Falsalarma - Ya Será Tarde.mp3
+4:Falsalarma/Falsalarma - Deja Que Gaste Saliva (feat. Morodo).mp3
+5:Falsalarma/Falsalarma - Mi Vida por un Sueño.mp3
+6:Falsalarma/Falsalarma - La Versión de los Hechos.mp3
+7:Falsalarma/Falsalarma - Lo Que Me Llevo (feat. Juaninacka).mp3
+8:Falsalarma/Falsalarma - Warrior (feat. Lasai).mp3
+9:Falsalarma/Falsalarma - Génesis (feat. Tosko).mp3
+10:Falsalarma/Falsalarma - Mis Pilares de la Tierra.mp3
+11:Falsalarma/Falsalarma - Ver para Sentir.mp3
+12:Falsalarma/Falsalarma - Modos y Modales (feat. Legendario).mp3
+13:Falsalarma/Falsalarma - Musas.mp3
+14:Falsalarma/Falsalarma - King de la Selva.mp3
+15:Falsalarma/Falsalarma - Ya Me la Se.mp3
+16:Falsalarma/Falsalarma - Comida Rápida (feat. Capaz & Skone).mp3
+17:Falsalarma/Falsalarma - Seremos Polvo (feat. Jah Nattoh).mp3
+18:Lindsey Stirling/Artemis/01 - Underground.mp3
+19:Lindsey Stirling/Artemis/02 - Artemis.mp3
+20:Lindsey Stirling/Artemis/03 - Til the Light Goes Out.mp3
+21:Lindsey Stirling/Artemis/04 - Between Twilight.mp3
+22:Lindsey Stirling/Artemis/05 - Foreverglow.mp3
+23:Lindsey Stirling/Artemis/06 - Love Goes On And On (feat. Amy Lee).mp3
+24:Lindsey Stirling/Artemis/07 - Masquerade.mp3
+25:Lindsey Stirling/Artemis/08 - Sleepwalking.mp3
+26:Lindsey Stirling/Artemis/09 - Darkside.mp3
+27:Lindsey Stirling/Artemis/10 - The Upside.mp3
+28:Lindsey Stirling/Artemis/11 - Guardian.mp3
+29:Lindsey Stirling/Artemis/12 - Aurora.mp3
+30:Lindsey Stirling/Artemis/13 - The Upside (feat. Elle King).mp3
+31:Lindsey Stirling/Brave Enough (Deluxe Edition)/01 Lost Girls.m4a
+32:Lindsey Stirling/Brave Enough (Deluxe Edition)/02 Brave Enough (feat. Christina Perri).m4a
+33:Lindsey Stirling/Brave Enough (Deluxe Edition)/03 The Arena.m4a
+34:Lindsey Stirling/Brave Enough (Deluxe Edition)/04 The Phoenix.m4a
+35:Lindsey Stirling/Brave Enough (Deluxe Edition)/05 Where Do We Go (feat. Carah Faye).m4a
+36:Lindsey Stirling/Brave Enough (Deluxe Edition)/06 Those Days (feat. Dan + Shay).m4a
+37:Lindsey Stirling/Brave Enough (Deluxe Edition)/07 Prism.m4a
+38:Lindsey Stirling/Brave Enough (Deluxe Edition)/08 Hold My Heart (feat. ZZ Ward).m4a
+39:Lindsey Stirling/Brave Enough (Deluxe Edition)/09 Mirage (feat. Raja Kumari).m4a
+40:Lindsey Stirling/Brave Enough (Deluxe Edition)/10 Don't Let This Feeling Fade (feat. Rivers Cuomo & Lecrae).m4a
+41:Lindsey Stirling/Brave Enough (Deluxe Edition)/11 First Light.m4a
+42:Lindsey Stirling/Brave Enough (Deluxe Edition)/12 Love's Just a Feeling (feat. Rooty).m4a
+43:Lindsey Stirling/Brave Enough (Deluxe Edition)/13 Something Wild (feat. Andrew McMahon In the Wilderness).m4a
+44:Lindsey Stirling/Brave Enough (Deluxe Edition)/14 Gavi's Song.m4a
+45:Lindsey Stirling/Brave Enough (Deluxe Edition)/15 Waltz (Bonus Track).m4a
+46:Lindsey Stirling/Brave Enough (Deluxe Edition)/16 Afterglow (Bonus Track).m4a
+47:Lindsey Stirling/Brave Enough (Deluxe Edition)/17 Powerlines (Bonus Track).m4a
+48:Lindsey Stirling/Brave Enough (Deluxe Edition)/18 Forgotten Voyage (Bonus Track).m4a
+49:Lindsey Stirling/Instrumentals/Crystallize Violin.mp3
+50:Lindsey Stirling/Instrumentals/Transcendence_Karaoke_w_Lead_In.mp3
+51:Lindsey Stirling/Instrumentals/Transcendence_Karaoke.mp3
+52:Lindsey Stirling/Lindsey Stirling/01 - Electric Daisy Violin.mp3
+53:Lindsey Stirling/Lindsey Stirling/02 - Zi-Zi's Journey.mp3
+54:Lindsey Stirling/Lindsey Stirling/03 - Crystallize.mp3
+55:Lindsey Stirling/Lindsey Stirling/04 - Song Of The Caged Bird.mp3
+56:Lindsey Stirling/Lindsey Stirling/05 - Moon Trance.mp3
+57:Lindsey Stirling/Lindsey Stirling/06 - Minimal Beat.mp3
+58:Lindsey Stirling/Lindsey Stirling/07 - Transcendence.mp3
+59:Lindsey Stirling/Lindsey Stirling/08 - Elements.mp3
+60:Lindsey Stirling/Lindsey Stirling/09 - Shadows.mp3
+61:Lindsey Stirling/Lindsey Stirling/10 - Spontaneous Me.mp3
+62:Lindsey Stirling/Lindsey Stirling/11 - Anti Gravity.mp3
+63:Lindsey Stirling/Lindsey Stirling/12 - Stars Align.mp3
+64:Lindsey Stirling/Shatter Me/1-01 Beyond The Veil.mp3
+65:Lindsey Stirling/Shatter Me/1-02 Mirror Haus.mp3
+66:Lindsey Stirling/Shatter Me/1-03 V-Pop.mp3
+67:Lindsey Stirling/Shatter Me/1-04 Shatter Me (feat. Lzzy Hale).mp3
+68:Lindsey Stirling/Shatter Me/1-05 Heist.mp3
+69:Lindsey Stirling/Shatter Me/1-06 Roundtable Rival.mp3
+70:Lindsey Stirling/Shatter Me/1-07 Night Vision.mp3
+71:Lindsey Stirling/Shatter Me/1-08 Take Flight.mp3
+72:Lindsey Stirling/Shatter Me/1-09 Ascendance.mp3
+73:Lindsey Stirling/Shatter Me/1-10 We Are Giants (feat. Dia Frampton).mp3
+74:Lindsey Stirling/Shatter Me/1-11 Swag.mp3
+75:Lindsey Stirling/Shatter Me/1-12 Master Of Tides.mp3
+76:Lindsey Stirling/Shatter Me/1-13 Eclipse.mp3
+77:Lindsey Stirling/Shatter Me/1-14 Sun Skip.mp3
+78:Lindsey Stirling/Shatter Me/1-15 Take Flight (Orchestral Version).mp3
 playlist_end
