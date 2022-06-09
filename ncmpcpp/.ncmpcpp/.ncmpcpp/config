@@ -19,7 +19,7 @@ ncmpcpp_directory = ~/.config/ncmpcpp
 ## MPD clients (eg. ncmpc) also use that location.
 ##
 #
-#lyrics_directory = ~/.lyrics
+lyrics_directory = ~/.lyrics
 #
 ##### connection settings #####
 #
@@ -31,7 +31,7 @@ mpd_port = 6600
 #
 ## Needed for tag editor and file operations to work.
 ##
-#mpd_music_dir = ~/music
+mpd_music_dir = ~/Music
 #
 #mpd_crossfade_time = 5
 #
@@ -69,7 +69,7 @@ audio_output {
 ## visualizer.
 ##
 #
-visualizer_data_source = /tmp/mpd.fifo
+#visualizer_data_source = /tmp/mpd.fifo
 #
 ##
 ## Note: Below parameter is needed for ncmpcpp to determine which output
@@ -77,12 +77,12 @@ visualizer_data_source = /tmp/mpd.fifo
 ## to synchronize with audio.
 ##
 #
-visualizer_output_name = Visualizer feed
+#visualizer_output_name = Visualizer feed
 #
 ##
 ## If you set format to 44100:16:2, make it 'yes'.
 ##
-visualizer_in_stereo = yes
+#visualizer_in_stereo = yes
 #
 ##
 ## Note: set below to >=10 only if you have synchronization issues with
@@ -100,7 +100,7 @@ visualizer_in_stereo = yes
 ##
 visualizer_type = wave_filled
 #
-visualizer_fps = 60
+#visualizer_fps = 60
 #
 #visualizer_autoscale = no
 #
