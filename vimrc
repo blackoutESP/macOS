@@ -81,8 +81,7 @@ set foldlevelstart=10   " open most folds by default
 set foldnestmax=10      " 10 nested fold max
 set foldmethod=indent   " fold based on indent level
 set t_Co=256
-set macligatures
-set guifont=Fira\ Code:h12
+set guifont=Hack
 set termguicolors
 
 map Q gq
@@ -148,7 +147,7 @@ Plug 'junegunn/vim-easy-align'
 Plug 'https://github.com/junegunn/vim-github-dashboard.git'
 "
 " Multiple Plug commands can be written in a single line using | separators
- Plug 'SirVer/ultisnips' | Plug 'honza/vim-snippets'
+"Plug 'SirVer/ultisnips' | Plug 'honza/vim-snippets'
 "
 " " On-demand loading
 Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
@@ -176,6 +175,7 @@ Plug 'pangloss/vim-javascript'
 Plug 'joshdick/onedark.vim'
 Plug 'rizzatti/dash.vim'
 Plug 'psliwka/vim-smoothie'
+Plug 'ryanoasis/vim-devicons'
 "
 "
 " " Initialize plugin system
@@ -185,6 +185,21 @@ if !exists('g:airline_symbols')
     let g:airline_symbols = {}
 endif
 let g:airline_symbols.space = "\ua0"
+
+" loading the plugin
+let g:webdevicons_enable = 1
+" adding the flags to NERDTree
+let g:webdevicons_enable_nerdtree = 1
+" adding the custom source to unite
+let g:webdevicons_enable_unite = 1
+" adding to vim-airline's tabline
+let g:webdevicons_enable_airline_tabline = 1
+" adding to vim-airline's statusline
+let g:webdevicons_enable_airline_statusline = 1
+" ctrlp glyphs
+let g:webdevicons_enable_ctrlp = 1
+" the amount of space to use after the glyph character (default ' ')
+let g:WebDevIconsNerdTreeAfterGlyphPadding = '  '
 
 " Vim Javascript
 let g:javascript_plugin_jsdoc = 1
